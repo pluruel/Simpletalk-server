@@ -1,0 +1,7 @@
+*.lib
+/Debug
+*.h
+*.aps
+*.rc
+*.vcxproj
+*.filters
